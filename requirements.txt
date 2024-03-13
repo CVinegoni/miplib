@@ -3,7 +3,7 @@ pims
 pandas
 h5py
 matplotlib
-numba=0.39
+numba==0.39
 SimpleITK
 scipy
 numpy
